@@ -1,10 +1,10 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;.NET+%7C+Angular+%7C+Azure;Docente+%7C+ITS+C%C3%B3rdoba;C%C3%B3rdoba%2C+Argentina)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;.NET+%7C+Angular+%7C+Azure;Profesor+%7C+ITS+C%C3%B3rdoba;C%C3%B3rdoba%2C+Argentina)](https://git.io/typing-svg)
 
 </div>
 
-### Hola, soy el profe Mateo!
+### Hola, soy Mateo!
 
 Soy profesor de **Programación III** e **Ingeniería de Software** en el ITS Córdoba.
 En mi tiempo libre mantengo un laboratorio público con explicaciones y demos para quienes quieran aprender.
