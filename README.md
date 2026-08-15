@@ -6,9 +6,7 @@
 
 ### Hola, soy el profe Mateo!
 
-
-
-Soy profesor de **Programación III** e **Ingeniería de Software** en el ITS Córdoba. 
+Soy profesor de **Programación III** e **Ingeniería de Software** en el ITS Córdoba.
 En mi tiempo libre mantengo un laboratorio público con explicaciones y demos para quienes quieran aprender.
 
 ---
@@ -32,12 +30,8 @@ Repos con explicaciones, diagramas y demos funcionales. Si estás cursando o que
 
 <div align="center">
 
-<!-- 🔄 REEMPLAZÁ estos con tus repos reales — cambiá username y repo en cada línea -->
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mateovranych&repo=DonAldo&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/mateovranych/DonAldo)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mateovranych&repo=proyecto-devops&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/mateovranych/proyecto-devops)
-
-<!-- Podés agregar más filas de a 2 repo cards copiando el patrón de arriba -->
+[![Repo Card](https://gh-readme-stats.vercel.app/api/pin/?username=mateovranych&repo=DonAldo&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/mateovranych/DonAldo)
+[![Repo Card](https://gh-readme-stats.vercel.app/api/pin/?username=mateovranych&repo=proyecto-devops&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/mateovranych/proyecto-devops)
 
 </div>
 
@@ -48,15 +42,13 @@ Repos con explicaciones, diagramas y demos funcionales. Si estás cursando o que
 ### 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mateovranych&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateovranych&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170" />
+  <img src="https://gh-readme-stats.vercel.app/api?username=mateovranych&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170" />
+  <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=mateovranych&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170" />
 </div>
 
 ---
 
 ### 🐍 Contribuciones
-
-<!-- Para que esto funcione necesitás configurar GitHub Actions (instrucciones abajo) -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mateovranych/mateovranych/output/github-snake-dark.svg" />
@@ -65,8 +57,8 @@ Repos con explicaciones, diagramas y demos funcionales. Si estás cursando o que
 </picture>
 
 <!--
-📋 SETUP DE LA SERPIENTE:
-1. En tu repo mateovranych/mateovranych, creá el archivo .github/workflows/snake.yml
+📋 SETUP DE LA SERPIENTE (una sola vez):
+1. En tu repo mateovranych/mateovranych creá el archivo .github/workflows/snake.yml
 2. Pegá este contenido:
 
 name: Generate Snake
