@@ -26,7 +26,7 @@ En mi tiempo libre mantengo un laboratorio público con explicaciones y demos pa
 
 ### 🧪 Laboratorio — material libre para estudiar
 
-Repos con explicaciones, diagramas y demos funcionales. Si estás cursando o querés aprender por tu cuenta, servite.
+Repos con explicaciones, diagramas y demos funcionales. Si estás cursando o querés aprender por tu cuenta.
 
 <div align="center">
 
