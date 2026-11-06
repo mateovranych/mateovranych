@@ -1,7 +1,5 @@
 ### Hola, soy el profe Mateo
 
-Profe de **Programación III** e **Ingeniería de Software** en el ITS Córdoba.
-Dejo acá los apuntes que uso en clase, libres para estudiar.
 
 **→ [github.com/mateovranych/APUNTES](https://github.com/mateovranych/APUNTES)**
 
